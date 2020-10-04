@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{6A5600B3-386E-411D-A7A4-1823D2EB1868}|Default">
+  <MonoDevelop.Ide.ItemProperties.ParivartanApp.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParivartanApp.Android/Resources/values/styles.xml">
+    <Files>
+      <File FileName="ParivartanApp/MainPage.xaml" Line="33" Column="67" />
+      <File FileName="ParivartanApp/MainPage.xaml.cs" Line="48" Column="63" />
+      <File FileName="ParivartanApp/Courses/Wakelet/Material.xaml" Line="3" Column="43" />
+      <File FileName="ParivartanApp/Courses/Wakelet/Material.xaml.cs" Line="1" Column="1" />
+      <File FileName="ParivartanApp/Courses/Skype/Assessment.xaml" Line="3" Column="27" />
+      <File FileName="ParivartanApp/Courses/Skype/Material.xaml" Line="3" Column="28" />
+      <File FileName="ParivartanApp/Courses/Skype/Video.xaml" Line="3" Column="27" />
+      <File FileName="ParivartanApp/Courses/Skype/Skype.xaml" Line="1" Column="1" />
+      <File FileName="ParivartanApp/Courses/Skype/Skype.xaml.cs" Line="25" Column="49" />
+      <File FileName="ParivartanApp.Android/MainActivity.cs" Line="22" Column="72" />
+      <File FileName="ParivartanApp.Android/Splash.cs" Line="12" Column="35" />
+      <File FileName="ParivartanApp.Android/Resources/values/styles.xml" Line="20" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ParivartanApp" expanded="True">
+            <Node name="ParivartanApp" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="ParivartanApp.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True">
+                  <Node name="styles.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

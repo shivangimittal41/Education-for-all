@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9DZJLD77XEk7PaGzplGWBohlBjGZAb61+nu/cyETQ2nPqliIGB2yqycC983qbgaZQNdYb132Gdbb5YJ0uU447g==",
+  "dgSpecHash": "zVXFSsPCI8dx9TVS/OhDVPGl4SrIVobYcKam62ED4GlMFDQXbaVuXv68x8RjW6I7r2HmEGaCdM1F30wASfwRfg==",
   "success": true,
-  "projectFilePath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp/ParivartanApp.csproj",
+  "projectFilePath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp/ParivartanApp.csproj",
   "expectedPackageFiles": [
     "/Users/smittal/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/smittal/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

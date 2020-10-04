@@ -16,5 +16,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Courses\" />
+    <Folder Include="Courses\GoogleMeet\" />
+    <Folder Include="Courses\ICT\" />
+    <Folder Include="Courses\MSForms\" />
+    <Folder Include="Courses\Kahoot\" />
+    <Folder Include="Courses\Skype\" />
+    <Folder Include="Courses\Wakelet\" />
   </ItemGroup>
 </Project>

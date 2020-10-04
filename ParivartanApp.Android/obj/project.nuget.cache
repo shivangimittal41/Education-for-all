@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2IIydY/iY7OWKwEEEa85yhtxDtmNXsISL9XWkqOVs92KDAumrvX9+3CuyjR56i3ZNL8lJ4I3XuxVoOEx7JrCnw==",
+  "dgSpecHash": "6SsjXd+EkZdATzSu9PlxrwBpLTk8x8ywhWSqH90zeVNuZ1IkOKxllCxeKVO6FYLZpNDAr1US1MclM8UjTvetDg==",
   "success": true,
-  "projectFilePath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp.Android/ParivartanApp.Android.csproj",
+  "projectFilePath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp.Android/ParivartanApp.Android.csproj",
   "expectedPackageFiles": [
     "/Users/smittal/.nuget/packages/xamarin.android.arch.core.common/1.1.1.3/xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "/Users/smittal/.nuget/packages/xamarin.android.arch.core.runtime/1.1.1.3/xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Dqp5i0371qLamLS0c0mDmGhDb/uJy7U7fgjzg30w8GxJ7IoPQCZo1rultUOiPI8lpfy/FuX5eBg7pGJImDzTA==",
+  "dgSpecHash": "9GQhxGGevzuSqG3uQmpe4Pt+ijDr66XpJu+JVDFnqfim67b/FTa2P1G4Bu+CXtkm2V6oInoEgCaWab7qnLzg4w==",
   "success": true,
-  "projectFilePath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp.iOS/ParivartanApp.iOS.csproj",
+  "projectFilePath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp.iOS/ParivartanApp.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/smittal/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
     "/Users/smittal/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"

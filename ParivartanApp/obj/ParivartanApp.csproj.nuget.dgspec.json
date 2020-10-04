@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/smittal/Documents/ParivartanApp/ParivartanApp/ParivartanApp.csproj": {}
+    "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp/ParivartanApp.csproj": {}
   },
   "projects": {
-    "/Users/smittal/Documents/ParivartanApp/ParivartanApp/ParivartanApp.csproj": {
+    "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp/ParivartanApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/smittal/Documents/ParivartanApp/ParivartanApp/ParivartanApp.csproj",
+        "projectUniqueName": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp/ParivartanApp.csproj",
         "projectName": "ParivartanApp",
-        "projectPath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp/ParivartanApp.csproj",
+        "projectPath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp/ParivartanApp.csproj",
         "packagesPath": "/Users/smittal/.nuget/packages/",
-        "outputPath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp/obj/",
+        "outputPath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/smittal/.config/NuGet/NuGet.Config"

@@ -22,28 +22,31 @@ namespace ParivartanApp
         }
         async void MSForms_clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new MSForms());
+            await Navigation.PushAsync(new Courses.MSForms.MSForms());
         }
         async void GoogleMeet_clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new GoogleMeet ());
+            await Navigation.PushAsync(new Courses.GoogleMeet.GoogleMeet());
         }
         async void Wakelet_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new Wakelet());
+            await Navigation.PushAsync(new Courses.Wakelet.Wakelet());
         }
         async void Flipgrid_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new Flipgrid());
+            await DisplayAlert("Flipgrid", "Coming Soon", "OK");
+            //await Navigation.PushAsync(new Courses.Flipgrid.Flipgrid());
         }
         async void Skype_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new Skype());
+           
+            await Navigation.PushAsync(new Courses.Skype.Skype());
         }
         
         async void Kahoot_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new Kahoot());
+            await DisplayAlert("Kahoot", "Coming Soon", "OK");
+            //await Navigation.PushAsync(new Courses.Kahoot.Kahoot());
         }
     }
 }

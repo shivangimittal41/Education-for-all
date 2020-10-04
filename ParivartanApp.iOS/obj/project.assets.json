@@ -983,11 +983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/smittal/Documents/ParivartanApp/ParivartanApp.iOS/ParivartanApp.iOS.csproj",
+      "projectUniqueName": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp.iOS/ParivartanApp.iOS.csproj",
       "projectName": "ParivartanApp.iOS",
-      "projectPath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp.iOS/ParivartanApp.iOS.csproj",
+      "projectPath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp.iOS/ParivartanApp.iOS.csproj",
       "packagesPath": "/Users/smittal/.nuget/packages/",
-      "outputPath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp.iOS/obj/",
+      "outputPath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1002,8 +1002,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/smittal/Documents/ParivartanApp/ParivartanApp/ParivartanApp.csproj": {
-              "projectPath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp/ParivartanApp.csproj"
+            "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp/ParivartanApp.csproj": {
+              "projectPath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp/ParivartanApp.csproj"
             }
           }
         }

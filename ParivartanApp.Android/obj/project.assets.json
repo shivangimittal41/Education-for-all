@@ -1935,11 +1935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/smittal/Documents/ParivartanApp/ParivartanApp.Android/ParivartanApp.Android.csproj",
+      "projectUniqueName": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp.Android/ParivartanApp.Android.csproj",
       "projectName": "ParivartanApp.Android",
-      "projectPath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp.Android/ParivartanApp.Android.csproj",
+      "projectPath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp.Android/ParivartanApp.Android.csproj",
       "packagesPath": "/Users/smittal/.nuget/packages/",
-      "outputPath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp.Android/obj/",
+      "outputPath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1954,8 +1954,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/smittal/Documents/ParivartanApp/ParivartanApp/ParivartanApp.csproj": {
-              "projectPath": "/Users/smittal/Documents/ParivartanApp/ParivartanApp/ParivartanApp.csproj"
+            "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp/ParivartanApp.csproj": {
+              "projectPath": "/Users/smittal/Documents/GitHub/Parivartan/ParivartanApp/ParivartanApp.csproj"
             }
           }
         }
